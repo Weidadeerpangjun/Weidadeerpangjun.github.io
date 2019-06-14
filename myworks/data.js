@@ -1,0 +1,1 @@
+var myData={designer:{name:'Portoflio Of LIUGUIJUN',phone:'123457788',tag:["#hi，this is Jo."],bg:'#fbce33'},gallery:[]}
